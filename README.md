@@ -3,13 +3,13 @@
 Welcome to the online repository for our book on the history and development of WordPress. The book is currently in version 1, having been written by Siobhan McKeown, edited by Krista Stevens, and with helpful pull requests from members of the community. 
 
 ## Table of Contents
-- [Introduction](https://github.com/WordPress/book/blob/master/Content/introduction.md)
-- [Part 1](https://github.com/WordPress/book/tree/master/Content/Part%201)
-- [Part 2](https://github.com/WordPress/book/tree/master/Content/Part%202)
-- [Part 3](https://github.com/WordPress/book/tree/master/Content/Part%203)
-- [Part 4](https://github.com/WordPress/book/tree/master/Content/Part%204)
-- [Part 5](https://github.com/WordPress/book/tree/master/Content/Part%205)
-- [Part 6](https://github.com/WordPress/book/tree/master/Content/Part%206)
+- [Introduction](Content/introduction.md)
+- [Part 1](Content/Part%201)
+- [Part 2](Content/Part%202)
+- [Part 3](Content/Part%203)
+- [Part 4](Content/Part%204)
+- [Part 5](Content/Part%205)
+- [Part 6](Content/Part%206)
 
 ## Feedback
 
